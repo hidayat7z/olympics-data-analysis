@@ -1,2 +1,2 @@
 # olympics-data-analysis
-120 years of Olympic history
+Data Analysis of 120 years of Olympic History
